@@ -11,7 +11,7 @@ let totalVolumeInLiters = totalVolume / 1000
 let occupiedValume = (persent / 100 ) * totalVolumeInLiters
 let freeValue = totalVolumeInLiters - occupiedValume
 
-console.log(freeValue)
+console.log(freeValue)  
 
 }
 
