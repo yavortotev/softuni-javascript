@@ -16,4 +16,7 @@ function greaterNumber(input){
 
 }
 
+console.log();
+
+
 greaterNumber(['10','11'])
