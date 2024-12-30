@@ -1,6 +1,12 @@
+
+
 # SoftUni JavaScript Educational Exercises
 
 This repository contains a selection of problem-solving exercises completed during my studies at SoftUni (Software University). These exercises represent a small part of the broader program and projects I undertook durring my stydes. For more information about SoftUni (Software University), visit their official website: https://softuni.org.
+
+## 🚧 Project Status: Work in Progress
+
+This repository is currently a **private project** as it remains under active development. The main goal is to provide a polished and comprehensive set of solutions and exercises from SoftUni's JavaScript curriculum. Once I have completed and refined all the exercises, this repository will be made public to share knowledge and learning with the developer community.
  
 ---
 
