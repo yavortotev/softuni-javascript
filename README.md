@@ -6,7 +6,7 @@ This repository contains a selection of problem-solving exercises completed duri
 
 ## 🚧 Project Status: Work in Progress
 
-This repository is currently a **private project** as it remains under active development. The main goal is to provide a polished and comprehensive set of solutions and exercises from SoftUni's JavaScript curriculum. Once I have completed and refined all the exercises, this repository will be made public to share knowledge and learning with the developer community.
+This repository is currently a **work in progress** as I actively add and refine solutions to exercises from SoftUni's JavaScript Developer curriculum. My goal is to complete and include all the exercises by the end of January. Once finished, this repository will serve as a comprehensive resource for learning and problem-solving in JavaScript, based on the SoftUni program.
  
 ---
 
