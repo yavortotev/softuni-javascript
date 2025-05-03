@@ -28,3 +28,15 @@ function solve(fights) {
         console.log(`Won battles: ${wins}. Energy left: ${energy}`);
     }
 }
+
+
+solve(["100",
+    "10",
+    "10",
+    "10",
+    "1",
+    "2",
+    "3",
+    "73",
+    "10"])
+    
